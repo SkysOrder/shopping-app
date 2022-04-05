@@ -8,7 +8,7 @@ const data = {
             price:190,
             brand:"Gen 0",
             rating:5,
-            numReviews:10,
+            numReviews:60,
             description:'Goddess'
         },
         {
@@ -18,8 +18,8 @@ const data = {
             image:'/images/SakuraMiko.png',
             price:160,
             brand:"Gen 0",
-            rating:5,
-            numReviews:10,
+            rating:4.5,
+            numReviews:19,
             description:'Elite Nyee'
         },
         {
@@ -29,8 +29,8 @@ const data = {
             image:'/images/RobocoSan.png',
             price:170,
             brand:"Gen 0",
-            rating:5,
-            numReviews:10,
+            rating:4,
+            numReviews:14,
             description:'Robotics;Notes'
         },
         {
@@ -39,9 +39,9 @@ const data = {
             category:'Idols',
             image:'/images/HoshimachiSuisei.png',
             price:200,
-            brand:"Gen 0",
+            brand:"Gen 5",
             rating:5,
-            numReviews:10,
+            numReviews:20,
             description:'Suisei is cute today'
         },
         {
@@ -51,8 +51,8 @@ const data = {
             image:'/images/ShirakamiFubuki.png',
             price:180,
             brand:"Gen 1",
-            rating:5,
-            numReviews:10,
+            rating:4.5,
+            numReviews:4,
             description:'CatFox'
         },
         {
@@ -62,8 +62,8 @@ const data = {
             image:'/images/NatsuiroMatsuri.png',
             price:150,
             brand:"Gen 1",
-            rating:5,
-            numReviews:10,
+            rating:4,
+            numReviews:5,
             description:'God'
         },
     ],
